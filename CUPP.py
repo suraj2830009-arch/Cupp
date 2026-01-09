@@ -37,7 +37,7 @@ import urllib.parse
 import urllib.request
 import time
 
-__author__ = "Mebus"
+__author__ = "Suraj"
 __license__ = "GPL"
 __version__ = "3.3.1"
 
@@ -156,8 +156,8 @@ def print_cow():
     print("       \\   \033[1;31m,__,\033[1;m             # \033[07mP\033[27masswords")
     print("        \\  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # \033[07mP\033[27mrofiler")
     print("           \033[1;31m(__)    )\\ \033[1;m  ")
-    print("           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ Muris Kurgas | j0rgan@remote-exploit.org ]")
-    print("                            [ Mebus | https://github.com/Mebus/]\r\n")
+    print("           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m     
+    print("                            [ Suraj | https://github.com/suraj-2830009-arch]\r\n")
 
 
 def version():
